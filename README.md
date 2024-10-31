@@ -73,10 +73,11 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 Na tela principal, o usuário insere os valores e aperta nos botões para determinar a operação matemática de sua necessidade.
 
-
 <img src="https://github.com/user-attachments/assets/dfefbbe4-963c-4103-9d43-8d995e8f3674" width="260" height="500"/>
 
+# 🧰 APK do APP 
 
+<a href="https://github.com/LaurenAzevedo/Calculadora-simples/blob/main/calculadora.apk"> Download APK </a>
  
 # 📄 Licença
 
